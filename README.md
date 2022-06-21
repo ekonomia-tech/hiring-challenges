@@ -1,5 +1,5 @@
 # Subgraph Coding Challenge
-## Challenge 1
+## Challenge
 ### Summary
 Write an AAVE V2 subgraph from scratch for the AAVE V2 deployment on the Ethereum Network.
 #### Requirements
@@ -10,19 +10,15 @@ Write an AAVE V2 subgraph from scratch for the AAVE V2 deployment on the Ethereu
   - The current variable deposit rate for each markets/reserve.
   - The current variable borrow rate for each markets/reserve.
   - Any other fields you think are relevant.
-- Create a User Entity in your schema. 
-  - The [scaled balance](https://docs.aave.com/developers/v/2.0/the-core-protocol/atokens#scaledbalanceof) for each market/reserve a User is in.
-  - Any other fields you think are relevant.
 - Feel free to add in any other entities you need.
 - [Use `startBlock` in the manifest](https://thegraph.com/docs/en/developer/create-subgraph-hosted/#start-blocks).
 - Deploy the subgraph to [The Graph Hosted Service](https://thegraph.com/hosted-service/).
-
 ## Challenge 2
 ### Summary
-In the same repository, write a simple script in order to directly query the subgraph and query a users `scaledBalance` in `aDAI`, and log the result to the console.
+In the same repository, write a simple script in order to directly query the subgraph and query the `aDAI` markets total tokens, and log the result to the console.
 
 #### Requirements
-- Find a user who has a positive balance of `aDAI` by reading/querying the subgraph you deployed.
+- Reading/querying the subgraph you deployed.
 - Use any of the following packages to write the script:
   - Hardhat, ethers.js, etc. (javascript)
   - Brownie, Web3.py, etc (python)
@@ -31,7 +27,6 @@ In the same repository, write a simple script in order to directly query the sub
 ## Goals of the challenges
 - Challenge 1
   - Test ability to read smart contracts and turn it into actionable data with a subgraph.
-  - Test ability to think through schema design.
 - Challenge 2
   - Test writing a graphql query.
   - Test simple script writing.
