@@ -42,9 +42,14 @@ Write a simple front end application to support the ETHPool contract. The applic
 - Reflect the user’s current deposit in the pool
 - Reflect the user’s current state of rewards
 - Allow the user to claim his deposit + rewards
+- You can deploy the front end to a website like AWS or heroku and provide the link in the submission. Or you can provide instructions to deploy to localhost so we can pull it down locally and test the code ourselves. Your choice.
 
 Stack:
 - Framework - React\Preact
-- Any other library you need (ethers.js, web3,js, etc.)
+- Any other library you need - ethers.js, web3,js, etc.
 - Try and keep the bundle size as small as possible
 - Feel free to design the page(s) and components as you please, we leave the design open on purpose. It is okay to make it very simple, or to make it beautiful, it is up to you based on home much time you have.
+
+# Submission
+
+You can work on a private GitHub repo and then share it with dave@ekonomia.tech
