@@ -1,5 +1,5 @@
 # Subgraph Coding Challenge
-## Challenge
+## Challenge 1
 ### Summary
 Write an AAVE V2 subgraph from scratch for the AAVE V2 deployment on the Ethereum Network.
 #### Requirements
@@ -15,10 +15,10 @@ Write an AAVE V2 subgraph from scratch for the AAVE V2 deployment on the Ethereu
 - Deploy the subgraph to [The Graph Hosted Service](https://thegraph.com/hosted-service/).
 ## Challenge 2
 ### Summary
-In the same repository, write a simple script in order to directly query the subgraph and query the `aDAI` markets total tokens, and log the result to the console.
+In the same repository, write a simple script in order to directly query the subgraph for the `aDAI` markets total tokens, and `console.log()` the result.
 
 #### Requirements
-- Reading/querying the subgraph you deployed.
+- Querying the subgraph you deployed.
 - Use any of the following packages to write the script:
   - Hardhat, ethers.js, etc. (javascript)
   - Brownie, Web3.py, etc (python)
