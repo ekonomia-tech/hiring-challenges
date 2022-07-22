@@ -22,7 +22,7 @@ Example:
 ### Goal
 Design and code a contract for ETHPool, take all the assumptions you need to move forward. Bonus points for thinking about the most gas-efficient implementation you can.
 
-You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity, Vyper.
+You can use any development tools you prefer: Hardhat, Foundry, Truffle, Brownie, Solidity, Vyper, etc.
 
 Useful resources:
 - Solidity Docs: https://docs.soliditylang.org/en/v0.8.4
@@ -46,7 +46,7 @@ Write a simple front end application to support the ETHPool contract. The applic
 
 Stack:
 - Framework - React\Preact
-- Any other library you need - ethers.js, web3,js, etc.
+- Any other library you need - ethers.js, web3,js, etc.cd
 - Try and keep the bundle size as small as possible
 - Feel free to design the page(s) and components as you please, we leave the design open on purpose. It is okay to make it very simple, or to make it beautiful, it is up to you based on home much time you have.
 
