@@ -34,3 +34,6 @@ Deploy the contract to any Ethereum testnet of your preference. Keep record of t
 
 Bonus:
 - Verify the contract in Etherscan
+
+## Submission
+You can work on a private GitHub repo and then share it with **davekaj** GitHub user. Feel free to send any question while doing the exercise.

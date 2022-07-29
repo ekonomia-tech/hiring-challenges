@@ -38,8 +38,5 @@ The page should consist of:
   - Total borrowed
   - Total repaid
 
-
-
-
-
-If you have any questions, please ask in the joint Telegram group.
+## Submission
+You can work on a private GitHub repo and then share it with **davekaj** GitHub user. Feel free to send any question while doing the exercise.

@@ -50,6 +50,5 @@ Stack:
 - Try and keep the bundle size as small as possible
 - Feel free to design the page(s) and components as you please, we leave the design open on purpose. It is okay to make it very simple, or to make it beautiful, it is up to you based on home much time you have.
 
-# Submission
-
-You can work on a private GitHub repo and then share it with dave@ekonomia.tech
+## Submission
+You can work on a private GitHub repo and then share it with **davekaj** GitHub user. Feel free to send any question while doing the exercise.

@@ -42,6 +42,5 @@ In the same repository, write a simple script in order to directly query the sub
 - Educational Resource: https://github.com/austintgriffith/scaffold-eth
 
 
-## Setup and organization
-You can work on a private GitHub repo and then share it with **davekaj** GitHub user. Please share the deployed subgraph hosted service URL as well.
-Feel free to send any question while doing the exercise.
+## Submission
+You can work on a private GitHub repo and then share it with **davekaj** GitHub user. Feel free to send any question while doing the exercise.
