@@ -39,4 +39,4 @@ The page should consist of:
   - Total repaid
 
 ## Submission
-You can work on a private GitHub repo and then share it with **davekaj** GitHub user. Feel free to send any question while doing the exercise.
+You can work on a private GitHub repo and then share it with **davekaj** GitHub user. Feel free to send any question while doing the exercise. We recommend spending 4-6 hours on it, but you can go over or under if you'd like. You don't have to make it beautiful either, but if you feel you have time, the extra effort will be appreciated!
